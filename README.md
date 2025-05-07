@@ -23,11 +23,6 @@ This project replaces the real-time video background using OpenCV. It detects th
 - queue
 - tkinter
 
-Install dependencies with:
-
-```bash
-pip install opencv-python numpy cvzone tkinter
-
 ## 🚀 How to Use
 - Clone the repository
 - Run the Jupyter Notebook: virtual_background.ipynb
@@ -36,4 +31,11 @@ pip install opencv-python numpy cvzone tkinter
 
 ##🔒 Note
 The camera must be connected and accessible for real-time execution. Static background images should be placed in the project folder or specified with a full path.
+
+
+Install dependencies with:
+
+```bash
+pip install opencv-python numpy cvzone tkinter
+
 
