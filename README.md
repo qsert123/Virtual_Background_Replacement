@@ -1,6 +1,12 @@
 # Virtual_Background_Replacement
 This project replaces the real-time video background using OpenCV. It detects the person and overlays a custom background, similar to Zoom or Teams.
 
+## Team Members
+- Arshekh John JD
+- Raja Prabu V
+- Aswin Raj M
+- Vibish Vincent V
+
 ## 📁 Files
 
 - `virtual_background.ipynb`: The main Jupyter Notebook containing the code and explanation.
