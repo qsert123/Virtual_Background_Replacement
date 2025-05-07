@@ -1,0 +1,8 @@
+Requirement
+
+- opencv-python
+- numpy
+- cvzone
+- tkinter
+- os
+- queue
